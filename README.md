@@ -1,2 +1,2 @@
 # LightFusion
-Quick Multi-Light Beauty Reconstruction Tool for Nuke.
+Quick Multi-Light Beauty Rebuild Tool for Nuke.
